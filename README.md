@@ -13,25 +13,25 @@ The target variable ‘Churn’ has been included in column W in attached datase
 Churn must be predicted for each customer.
 PFB the variable type of each variable
 Variable	Variable type
-v1	categorical
-v2	categorical
-v3	categorical
-v4	numerical
-v5	numerical
-v6	numerical
-v7	numerical
-v8	numerical
-v9	numerical
-v10	numerical
-v11	numerical
-v12	numerical
-v13	categorical
-v14	categorical
-v15	categorical
-v16	categorical
-v17	categorical
-v18	categorical
-v19	categorical
-v20	categorical
-v21	categorical
+* v1	categorical
+* v2	categorical
+* v3	categorical
+* v4	numerical
+* v5	numerical
+* v6	numerical
+* v7	numerical
+* v8	numerical
+* v9	numerical
+* v10	numerical
+* v11	numerical
+* v12	numerical
+* v13	categorical
+* v14	categorical
+* v15	categorical
+* v16	categorical
+* v17	categorical
+* v18	categorical
+* v19	categorical
+* v20	categorical
+* v21	categorical
 
